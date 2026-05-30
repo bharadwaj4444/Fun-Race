@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Scale 3D Racing",
+  "description": "Multi-Scale 3D third-person racing game featuring an evolution system, dynamic size scaling physics, custom abilities, and seasonal leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
